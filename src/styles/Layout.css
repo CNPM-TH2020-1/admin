@@ -1,0 +1,22 @@
+.nav {
+  margin-top:30px;
+  margin-left: 15px;
+  list-style: none;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.nav > li {
+  color: #8F8F8F;
+  margin-right: 80px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+}
+
+.nav > li:hover {
+  cursor: pointer;
+  filter:brightness(1.4);
+}
